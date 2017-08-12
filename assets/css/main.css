@@ -14,13 +14,13 @@ background-color: #0A2A0A;
 .link1{
 	margin-left: 150px;
 }
-.imagenes img{
+#imagenes img{
 	margin: 5px ;
 	filter:grayscale(100%);
 	border:5px solid white;
 
 }
-.imagenes{
+#imagenes{
 	margin-left: 185px;
 }
 .lista1{
@@ -66,5 +66,19 @@ span{
 	z-index: 10;
 	position: absolute;
 }
+.div_principal{
+	display: inline-block;
+	
+	
+}
 
+.btn_x{
+
+position: absolute;
+width: 30px;
+color:black;
+background-color: white;
+
+
+}
 
