@@ -5,7 +5,7 @@ background-color: #0A2A0A;
 	background-color: #FE2E2E;
 	padding: 1px;
 
-	
+
 }
 .link1 a{
 	text-decoration: none;
@@ -40,7 +40,7 @@ button{
 	margin:0 auto;
 	margin-top:20px;
 }
- 
+
  .div_general{
 	width: 70%;
 	margin: 0 auto;
@@ -49,13 +49,13 @@ button{
 .div1{
 	width: 400px;
 	height: 300px;
-	display: inline-block;	
+	display: inline-block;
 	vertical-align: top;
 }
 .div2{
 	width: 400px;
 	height: 300px;
-	display: inline-block;	
+	display: inline-block;
 	vertical-align: top;
 	margin-left: 20px;
 }
@@ -68,17 +68,17 @@ span{
 }
 .div_principal{
 	display: inline-block;
-	
-	
+
+
 }
 
 .btn_x{
 
 position: absolute;
+ z-index: 10;
 width: 30px;
-color:black;
+color:#000000;
 background-color: white;
-
-
+margin:5px 20px 5px 10px;
 }
 
