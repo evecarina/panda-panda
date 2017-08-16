@@ -1,27 +1,42 @@
+body{
+	 background-color:#F8F9F9;
+}
+#banner{
+margin: 10px 5px 10px 5px;
+}
 .section1{
-background-color: #0A2A0A;
+
+   margin: 0px auto;
+}
+
+#bapada{
+	width: 2000px;
 }
 .contenedor1{
-	background-color: #FE2E2E;
+	background-color: #D1F2EB;
 	padding: 1px;
-
 
 }
 .link1 a{
 	text-decoration: none;
     margin-left: 2px;
+    font-family: 'Lobster', cursive;
+    margin-left: 150px;
 }
 .link1{
 	margin-left: 150px;
 }
+
 #imagenes img{
 	margin: 5px ;
-	filter:grayscale(100%);
+
 	border:5px solid white;
+	width: 200px;
+	height: 200px;
 
 }
 #imagenes{
-	margin-left: 185px;
+	margin-left: 200px;
 }
 .lista1{
 	margin-left: 100px;
@@ -29,30 +44,34 @@ background-color: #0A2A0A;
 }
 button{
 	display: inline-block;
-	width: 33%;
+	width: 30%;
 	color:white;
-	background-color: #FE2E2E;
+	background-color: #1f2041;
 	border:0px;
+	border-radius: 10px;
 
 }
 .contenedor2{
 	width: 70%;
 	margin:0 auto;
 	margin-top:20px;
+	margin-right: 100px;
 }
 
  .div_general{
 	width: 70%;
 	margin: 0 auto;
+	margin-right: 90px;
+	font-family: 'Raleway', sans-serif;
 }
 
-.div1{
+#div1{
 	width: 400px;
 	height: 300px;
 	display: inline-block;
 	vertical-align: top;
 }
-.div2{
+#div2{
 	width: 400px;
 	height: 300px;
 	display: inline-block;
@@ -66,19 +85,25 @@ span{
 	z-index: 10;
 	position: absolute;
 }
-.div_principal{
+#imagenes div{
 	display: inline-block;
-
 
 }
 
 .btn_x{
 
 position: absolute;
- z-index: 10;
+ z-index: 1;
 width: 30px;
 color:#000000;
 background-color: white;
 margin:5px 20px 5px 10px;
 }
 
+#divprincipal1 img {
+	margin-left: 100px;
+
+}
+#divprincipal1 button {
+	margin-left: 100px;
+}
